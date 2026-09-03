@@ -1,3 +1,6 @@
+# ML-S6-2520030508
+
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20ML-S6-2520030508&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
@@ -56,3 +59,4 @@ Welcome to a collection of machine learning algorithms, statistical models, and 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JITHINDSK1&label=Repository%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
+-->
